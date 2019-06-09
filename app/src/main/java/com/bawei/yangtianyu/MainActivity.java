@@ -9,8 +9,9 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-     findViewById(R.id.bt);
+       findViewById(R.id.bt);
 
-
+       //找textview的控件
+       findViewById(R.id.tv);
     }
 }
