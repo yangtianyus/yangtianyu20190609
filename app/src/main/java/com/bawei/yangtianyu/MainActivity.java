@@ -13,5 +13,9 @@ public class MainActivity extends AppCompatActivity {
 
        //找textview的控件
        findViewById(R.id.tv);
+
+       //lkasfjkldajvda
+        //salvkosvk
+
     }
 }
